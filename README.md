@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm MR PRAMOD</h1>
-<h3 align="center">SEE YOU THERE</h3>
+<h1 align="center"> MR PRAMOD</h1>
 
 - 💬 Ask me about **Anything's random - I enjoy real talk.**
 
